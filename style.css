@@ -1,0 +1,29 @@
+body.bg-dark {
+    background-color: #343a40 !important;
+    color: #f8f9fa;
+}
+
+.navbar-light.bg-dark {
+    background-color: #212529 !important;
+}
+
+.table-dark {
+    background-color: #454d55;
+    color: #f8f9fa;
+}
+
+.navbar-brand, .btn-light, .btn-dark {
+    cursor: pointer;
+}
+
+#titulo {
+    margin-bottom: 20px;
+}
+
+button {
+    margin: 10px;
+}
+
+#imagen {
+    margin-top: 30px;
+}
